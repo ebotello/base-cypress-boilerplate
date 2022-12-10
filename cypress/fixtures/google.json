@@ -1,0 +1,12 @@
+{
+    "pageData": {
+        "domain": "https://google.com"
+    },
+    "locators": {
+        "searchField": ".gLFyf"
+    },
+    "searches": {
+        "metamask": "metamask",
+        "receipeOfEggs": "Recetas de huevos"
+    }
+}
